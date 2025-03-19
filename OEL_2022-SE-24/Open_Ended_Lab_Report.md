@@ -1,5 +1,3 @@
-# MNIST Classification Report
-
 ## Introduction
 The MNIST dataset consists of handwritten digits (0-9), represented as 28x28 grayscale images. These images are flattened into 784-dimensional vectors with pixel intensities ranging from 0 to 255. The dataset is pre-split into a training set (60,000 samples) and a testing set (10,000 samples). The objective of this lab is to implement and evaluate multiple classification models to determine their effectiveness in recognizing handwritten digits.
 
